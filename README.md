@@ -1,3 +1,3 @@
-# Hello there!
+# Hello there!  <img src="./wave.gif" width="30px" height="30px" />
 
-![Calculating](./calculating.gif)
+<img src="./calculating.gif" width="100%" alt="Calculating"/>
